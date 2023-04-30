@@ -1,4 +1,4 @@
-# Rust Gossip Glomers challenge solution
+# Gossip Glomers challenge solution in Rust
 
 A series of distributed systems challenges by Fly.io and Kyle Kingsbury, author of Jepsen.
 I've had a lot of fun implementing and thinking about how to tackle these challenges.
